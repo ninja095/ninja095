@@ -1,6 +1,9 @@
-# Hi👋  I’m Ruslan, a NinjaScripter Junior Fullstack Developer
 
-## My experiences:
+<div align="center"><h1> Hi👋  I’m Ruslan, Junior Fullstack Developer</h1></div>
+<div align="center"></div>
+
+### **My experiences**
+
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,6 +38,10 @@
 
 
 
+
+
+
 ### About me:
 
+Currently, I am looking for a job or an internship while continuing to learn and work on projects. I have come to understand that being a developer means constantly learning something new, which is why I have chosen this profession.
 
