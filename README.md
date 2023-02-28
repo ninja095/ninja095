@@ -41,7 +41,14 @@
 
 
 
-### About me:
+## About me:
 
 **Currently, I am looking for a job or an internship while continuing to learn and work on projects. I have come to understand that being a developer means constantly learning something new, which is why I have chosen this profession.**
 
+### *education*
+- 3W Academy 2022 
+Training: Full Stack Developer Specialization: JavaScript Vue.Js PHP Symfony
+- Hexlet.io 2022 
+Training: Full Stack Developer Specialization: JavaScript React Node.js
+- Moscow Banking Institute
+2004 -2007 Diploma of Higher Education
