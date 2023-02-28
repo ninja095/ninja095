@@ -37,7 +37,4 @@
 
 ### About me:
 
-libraries
-
-languages
 
