@@ -1,5 +1,5 @@
 
-<div align="center"><h1> Hi👋  I’m Ruslan, Junior Fullstack Developer</h1></div>
+<div align="center"><h1> Hi👋  I’m Ruslan, Fullstack Developer</h1></div>
 <div align="center"></div>
 
 ### **My experiences**
