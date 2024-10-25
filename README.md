@@ -1,5 +1,5 @@
 
-<div align="center"><h1> Hi👋  I’m Ruslan, Fullstack Developer</h1></div>
+<div align="center"><h1> Hi👋  I’m Ruslan, Web Developer</h1></div>
 <div align="center"></div>
 
 ### **My experiences**
@@ -22,9 +22,9 @@
 
 ## About me:
 
-**Currently, I am looking for a job or an internship while continuing to learn and work on projects. I have come to understand that being a developer means constantly learning something new, which is why I have chosen this profession.**
-
 ### *education*
+- Metatech University 
+Async-2024 Asynchronous Programming
 - 3W Academy 2022 
 Training: Full Stack Developer Specialization: JavaScript Vue.Js PHP Symfony
 - Hexlet.io 2022 
