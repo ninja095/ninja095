@@ -1,8 +1,4 @@
 
-<div align="center"><h1> Hi👋  I’m Ruslan, Web Developer</h1></div>
-<div align="center"></div>
-
-### **My experiences**
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
