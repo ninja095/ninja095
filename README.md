@@ -18,12 +18,8 @@
 
 ## About me:
 
-### *education*
-- Metatech University 
-Async-2024 Asynchronous Programming
-- 3W Academy 2022 
-Training: Full Stack Developer Specialization: JavaScript Vue.Js PHP Symfony
-- Hexlet.io 2022 
-Training: Full Stack Developer Specialization: JavaScript React Node.js
-- Moscow Banking Institute
-2004 -2007 Diploma of Higher Education
+Angular frontend developer with 4+ years of commercial experience, working in teams of various sizes, both remotely and on-site. Mentored junior developers, helping them grow and adopt best practices.
+
+Built full-cycle development processes: from gathering requirements to delivering scalable, high-performance applications with modern architecture, automated testing, and CI/CD. Expert in reactive state management with NgRx, optimized large-scale projects with Nx, and implemented real-time features using WebSockets. Regularly migrated Angular applications from older versions to the latest, staying up-to-date with new features and best practices.
+
+Beyond frontend, developed microservices with Node.js, built endpoints with Fastify and Express, worked with SQL and NoSQL databases, and applied architectural patterns like DDD and MVC. Passionate about performance optimization, progressive web apps, and modern web development trends. Enjoy sharing knowledge through mentorship, internal tech talks, and code reviews.
