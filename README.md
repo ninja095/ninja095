@@ -18,7 +18,7 @@
 
 ## About me:
 
-Angular frontend developer with 4+ years of commercial experience, working in teams of various sizes, both remotely and on-site. Mentored junior developers, helping them grow and adopt best practices.
+Angular frontend developer with 3+ years of commercial experience, working in teams of various sizes, both remotely and on-site.
 
 Built full-cycle development processes: from gathering requirements to delivering scalable, high-performance applications with modern architecture, automated testing, and CI/CD. Expert in reactive state management with NgRx, optimized large-scale projects with Nx, and implemented real-time features using WebSockets. Regularly migrated Angular applications from older versions to the latest, staying up-to-date with new features and best practices.
 
