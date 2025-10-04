@@ -18,8 +18,8 @@
 
 ## About me:
 
-Angular frontend developer with 3+ years experience, working in teams of various sizes, both remotely and on-site.
+Angular Frontend Developer with 3+ years of experience in various team settings (remote and on-site).
 
-Built full-cycle development processes: from gathering requirements to delivering scalable, high-performance applications with modern architecture, automated testing, and CI/CD. Expert in reactive state management with NgRx, optimized large-scale projects with Nx, and implemented real-time features using WebSockets. Regularly migrated Angular applications from older versions to the latest, staying up-to-date with new features and best practices.
+I contribute to the full development cycle—from requirements to deployment—building scalable, high-performance applications with modern architecture, automated testing, and CI/CD. Proficient in NgRx for state management and using Nx for large project optimization. Experienced in implementing real-time features (WebSockets) and migrating Angular apps to the latest versions to apply best practices.
 
-Beyond frontend, developed microservices with Node.js, built endpoints with Fastify and Express, worked with SQL and NoSQL databases, and applied architectural patterns like DDD and MVC. Passionate about performance optimization, progressive web apps, and modern web development trends. Enjoy sharing knowledge through mentorship, internal tech talks, and code reviews.
+I also have experience on the backend: developing simple microservices with Node.js, building APIs using Fastify/Express, and working with SQL/NoSQL databases. I apply architectural concepts like DDD and MVC. I'm dedicated to performance optimization and happy to mentor and participate in code reviews.
